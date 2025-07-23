@@ -21,3 +21,8 @@ Grant logic based on current active requester
 
 # RTL Diagram
 <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/a215126d-e5fe-4b86-ae74-84c9d13c6c96" />
+
+# Simulations
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/a85f44f5-351e-4c57-8b25-c51a1e3ca5ed" />
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/87c3b511-4325-4a62-84f9-fd05955b7418" />
+
