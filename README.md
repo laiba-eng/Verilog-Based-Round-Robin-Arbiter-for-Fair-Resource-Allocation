@@ -27,6 +27,6 @@ Grant logic based on current active requester
 <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/87c3b511-4325-4a62-84f9-fd05955b7418" />
 
 # State Diagram
-![WhatsApp Image 2025-07-23 at 16 01 47_d3ce589a](https://github.com/user-attachments/assets/cd9fc922-b8ad-41ed-b646-b2cc452cf59c)
+![State](https://github.com/user-attachments/assets/f04ca497-1b96-4240-a5ce-e7ac52693d0f)
 
 
